@@ -16,7 +16,7 @@ CVE-2018-0802: https://portal.msrc.microsoft.com/en-US/security-guidance/advisor
 Research: https://research.checkpoint.com/another-office-equation-rce-vulnerability/
 Usage
 
-usage: RTF_11882_0802.py [-h] -c COMMAND -o OUTPUT [-i INPUT]
+usage: PS_CVE2018-0802.py [-h] -c COMMAND -o OUTPUT [-i INPUT]
 
 PoC for CVE-2010-0802 And CVE-2017-11882
 
