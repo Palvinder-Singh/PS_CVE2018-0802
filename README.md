@@ -18,13 +18,24 @@ Usage
 
 usage: PS_CVE2018-0802.py [-h] -c COMMAND -o OUTPUT [-i INPUT]
 
+
 PoC for CVE-2010-0802 And CVE-2017-11882
 
+
 optional arguments:
-  -h, --help            show this help message and exit
-  -c COMMAND, --command COMMAND
-                        Command run in target system
-  -o OUTPUT, --output OUTPUT
-                        Output exploit rtf
-  -i INPUT, --input INPUT
-                        Input normal rtf.
+
+-h, --help            
+
+show this help message and exit
+
+-c COMMAND, --command COMMAND
+
+Command run in target system
+
+-o OUTPUT, --output OUTPUT
+
+Output exploit rtf
+
+-i INPUT, --input INPUT
+
+Input normal rtf.
