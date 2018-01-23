@@ -20,7 +20,11 @@ LOGO = R"""
   \::/~~/~~~~  /:/\:\  \      \::/__/     
    \:\~~\      \/__\:\  \      \:\  \     
     \:\__\          \:\__\      \:\__\    
-     \/__/           \/__/       \/__/ """
+     \/__/           \/__/       \/__/ 
+     
+     For any Bug or Details : www.fb.com/official.palvindersingh
+     
+     """
 
 
 RTF_HEADER = R"""{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
